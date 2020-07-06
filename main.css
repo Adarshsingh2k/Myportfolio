@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+body{
+    background:rgb(30, 6, 46);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    
+    display: flex;
+     justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.747);
+    border-radius: 70px;
+    padding: 10px 10%;
+    margin: 10px 10px;
+    scroll-behavior: smooth;
+    
+}
+.avtar1{
+    width: 20px;
+}
+.heart{
+    width: 50px;
+}
+ul{
+    padding: 10px;
+}
+ li{
+    display: inline-block;
+    padding: 5px 20px;
+    text-decoration: none;
+    margin-right: 10px;
+    list-style: none;
+    
+    
+    border-radius: 5px;
+}
+li a{
+    text-decoration: none;
+    color: white;
+    transition: all 0.3s ease 0s;
+   
+}
+
+li a:hover{
+    color: #0088a9;
+    border:2px solid #0088a9;
+    padding: 5px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+@media (max-width:500px){
+   
+    li{
+        display: inline-block;
+        padding: 0;
+        
+    }
+    
+    .ad{
+        display: none;
+    }
+    header .heart{
+        display: none;
+    }
+}
+
+@media (max-width:384px){
+    li{
+        display: inline-block;
+        padding: 0;
+        
+    }
+    header{
+        padding-right: 10px;
+    }
+    .ad{
+        display: none;
+    }
+    header .heart{
+        display: none;
+    }
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    
+}
+.main-intro{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+line-height: 60px;
+
+}
+.main-intro ul{
+    text-align: center;
+}
+
+.hola img{
+    float: left;
+    width: 200px;
+
+
+}
+.myself{
+    font-family: 'Satisfy', cursive;
+    font-size: 4em;
+    color: bisque;
+    
+}
+.adarsh{
+    font-family: 'Sacramento', cursive;
+    color: rgb(182, 187, 179);
+    font-size: 2em;
+    
+    
+}
+
+
+.main-image{
+    display: flex;
+    margin: 0 auto;
+    justify-content: right;
+    align-items: center;
+    
+}
+.main-image img{
+    width: 100%;
+}
+.x-main{
+ display: none;
+}
+
+
+/*about*/
+ 
+#about-area{
+    background: linear-gradient(65deg, rgb(97, 197, 189),white);
+    
+}
+
+.buttn{
+    background:linear-gradient(37deg,rgb(201, 235, 50),rgb(122, 221, 30));
+}
+.about_title{
+    color: rgb(247, 0, 255);
+    font-weight: bolder;
+}
+.about_p{
+    color: black;
+}
+.about-image{
+    margin-top: 50px;
+}
+.bar{
+    background: #353b48;
+    display: block;
+    height: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #2187e7b3;
+
+
+}
+/*.bar span{
+    height: 28px;
+    float: left;
+    background: gold;
+}
+.rat-5{
+    width: 50%;
+    animation: rat-5 5s;
+}
+@keyframes rat-5{
+    0%{
+        width: 0;
+    }
+    25%{
+        width: 25%;
+    }
+    35%{
+        width: 90%;
+    }
+    50%{
+        width: 50%;
+    }
+    60%{
+        width: 40%;
+    }
+   
+    85%{
+        width: 10%;
+    }
+    90%{
+        width:55%;
+    }
+    100%{
+        width: 100%;
+    }
+
+}
+.rat-4{
+   width: 70%;
+   animation: rat-5 5s;
+}
+.rat-3{
+   width: 12%;
+   animation: rat-5 5s;
+}
+.rat-2{
+   width: 10%;
+   animation: rat-5 5s;
+}
+.rat-1{
+   width: 2%;
+   animation: rat-5 5s;
+}*/
+
+
+/*service*/
+

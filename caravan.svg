@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 464 464" style="enable-background:new 0 0 464 464;" xml:space="preserve">
+<rect x="320" y="48" style="fill:#F40E34;" width="40" height="64"/>
+<g>
+	<path style="fill:#EBE5DD;" d="M0,384v8c0,8.836,7.164,16,16,16h32c0-15.663,6.482-29.826,16.884-40H16C7.164,368,0,375.163,0,384z
+		"/>
+	<path style="fill:#EBE5DD;" d="M160,408h136c0-15.663,6.482-29.826,16.884-40H143.116C153.518,378.174,160,392.337,160,408z"/>
+	<path style="fill:#EBE5DD;" d="M448,368h-56.884C401.518,378.174,408,392.337,408,408h40c8.836,0,16-7.164,16-16v-8
+		C464,375.163,456.836,368,448,368z"/>
+	<path style="fill:#EBE5DD;" d="M416.199,184.844C408.586,169.618,393.023,160,376,160H56c-22.091,0-40,17.909-40,40h407.777
+		L416.199,184.844z"/>
+</g>
+<path style="fill:#FFD422;" d="M392,208h35.777l-4-8H16v8h24v72H16v88h48.884c10.103-9.881,23.901-16,39.116-16
+	s29.013,6.119,39.116,16h169.769c10.103-9.881,23.901-16,39.116-16s29.013,6.119,39.116,16H448v-88h-32L392,208z"/>
+<circle style="fill:#4D4D4D;" cx="104" cy="408" r="32"/>
+<rect x="96" y="400" style="fill:#FFFFFF;" width="16" height="16"/>
+<circle style="fill:#4D4D4D;" cx="352" cy="408" r="32"/>
+<rect x="344" y="400" style="fill:#FFFFFF;" width="16" height="16"/>
+<g>
+	<polygon style="fill:#1E81CE;" points="448,280 424,208 392,208 416,280 	"/>
+	<rect x="16" y="208" style="fill:#1E81CE;" width="24" height="72"/>
+</g>
+<path style="fill:#5AAAE7;" d="M416,280l-24-72h-88c-8.837,0-16,7.163-16,16v56H416z"/>
+<g>
+	<rect x="64" y="296" style="fill:#E7B900;" width="56" height="16"/>
+	<rect x="64" y="320" style="fill:#E7B900;" width="56" height="16"/>
+</g>
+<path style="fill:#5AAAE7;" d="M240,208h-72v72h88v-56C256,215.163,248.836,208,240,208z"/>
+<path style="fill:#1E81CE;" d="M88,208c-8.836,0-16,7.163-16,16v40c0,8.836,7.164,16,16,16h80v-72H88z"/>
+<g>
+	<rect x="64" y="176" style="fill:#5AAAE7;" width="96" height="16"/>
+	<rect x="176" y="176" style="fill:#5AAAE7;" width="88" height="16"/>
+	<rect x="280" y="176" style="fill:#5AAAE7;" width="96" height="16"/>
+</g>
+<polygon style="fill:#999999;" points="408,128 392,128 392,112 376,112 376,128 280,128 280,112 264,112 264,128 176,128 176,112 
+	160,112 160,128 80,128 80,112 64,112 64,128 48,128 48,144 64,144 64,160 80,160 80,144 160,144 160,160 176,160 176,144 264,144 
+	264,160 280,160 280,144 376,144 376,160 392,160 392,144 408,144 "/>
+<path style="fill:#FFDB45;" d="M240,368h-72v-88h88v72C256,360.837,248.837,368,240,368z"/>
+<rect x="16" y="304" width="24" height="16"/>
+<path style="fill:#5AAAE7;" d="M96,112V72c0-13.255,10.745-24,24-24h0c13.255,0,24,10.745,24,24v40H96z"/>
+<path style="fill:#E7B900;" d="M280,112h-96c-8.837,0-16-7.163-16-16V80h128v16C296,104.837,288.837,112,280,112z"/>
+<path style="fill:#FFD422;" d="M296,80H168V64c0-8.837,7.163-16,16-16h96c8.837,0,16,7.163,16,16V80z"/>
+<rect x="152" y="72" style="fill:#5AAAE7;" width="160" height="16"/>
+<rect x="224" y="296" style="fill:#EBE5DD;" width="16" height="16"/>
+<rect x="112" y="24" style="fill:#1E81CE;" width="16" height="24"/>
+<g>
+	<rect x="24" y="104" style="fill:#FF9811;" width="416" height="16"/>
+	<path style="fill:#FF9811;" d="M66.344,117.656L45.656,96.969C39.871,91.188,32.18,88,24,88V72
+		c12.453,0,24.164,4.852,32.969,13.656l20.688,20.688L66.344,117.656z"/>
+</g>
+<rect x="16" y="280" style="fill:#F40E34;" width="24" height="32"/>
+<rect x="16" y="312" style="fill:#FF9811;" width="24" height="32"/>
+<rect x="288" y="280" style="fill:#FFDB45;" width="128" height="64"/>
+<g>
+	<rect x="304" y="296" style="fill:#EBE5DD;" width="16" height="16"/>
+	<path style="fill:#EBE5DD;" d="M448,336L448,336c11.417,7.612,11.417,24.388,0,32l0,0V336z"/>
+</g>
+<path style="fill:#FF9811;" d="M448,296v16h8c4.418,0,8-3.582,8-8l0,0c0-4.418-3.582-8-8-8H448z"/>
+<polygon style="fill:#999999;" points="448,336 464,336 448,352 "/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
